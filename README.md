@@ -15,8 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@thakur-nik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@thakur-nik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikhil-thakur-98237b182/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/nikhil-thakur-98237b182/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikhil-thakur-98237b182/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
 <a href="https://fb.com/thakurnik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="thakurnik" height="30" width="40" /></a>
 <a href="https://instagram.com/supreme_coders" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="supreme_coders" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/thakurnik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="thakurnik" height="30" width="40" /></a>
