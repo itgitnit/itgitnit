@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikhil Thakur <img src="https://giffiles.alphacoders.com/208/208599.gif" alt="" width="50"></h1>
+<h1 align="center">Hi 👋, I'm Nikhil Thakur <img src="https://giffiles.alphacoders.com/207/207838.gif" alt="" width="50"></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Php Chat App**
